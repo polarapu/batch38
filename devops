@@ -1,9 +1,9 @@
 git init
-git config --global user.name "Prasad"
-git config --global user.email "prasad@gmail.com"
+git config --global user.name "alekhya"
+git config --global user.email "alekhya@gmail.com"
 git config --list
-git clone path/of/c-repo
-ls
+Hello DevOps Training
+nmvdf,jdsmfdl/gjkfghjdsfbdhbf
 cd test_rep
 touch file1
 git status
