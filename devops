@@ -1,2 +1,14 @@
-hello devops
-hiiiiiiiiiiiiiiiiii
+git init
+git config --global user.name "alekhya"
+git config --global user.email "alekhya@gmail.com"
+git config --list
+Hello DevOps Training
+nmvdf,jdsmfdl/gjkfghjdsfbdhbf
+cd test_rep
+touch file1
+git status
+git add file1
+git status
+hello alll
+git commit -m "label" file1
+sample line......
