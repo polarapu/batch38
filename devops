@@ -10,3 +10,4 @@ git status
 git add file1
 git status
 git commit -m "label" file1
+sample line......
