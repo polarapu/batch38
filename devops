@@ -1,4 +1,4 @@
-git init
+dsnfkjdsnfdjfgit init
 git config --global user.name "alekhya"
 git config --global user.email "alekhya@gmail.com"
 git config --list
